@@ -2,7 +2,7 @@
  
 Dashboard desenvolvido no Power BI para análise comparativa de devoluções e defeitos de produtos entre o 1º Semestre de 2025 e o 1º Semestre de 2026, com foco em evidenciar a melhoria operacional para o Setor Comercial.
  
-![Dashboard Preview](Vale_Troca_comparativo_1semestre_2025_2026.png)
+![Dashboard Preview](Vale_Troca_ATK_Comparativo_1semestre_2025_2026.png)
  
 ---
  
